@@ -56,8 +56,3 @@ ping winterroot.net
 
 # you are online if that works!
 
-A
-A
-A
-A
-# 
